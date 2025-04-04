@@ -1,4 +1,4 @@
-```markdown
+
 # Number Guessing Game
 
 
@@ -31,7 +31,7 @@ No installation required! Just run the script directly:
 
 ```bash
 python number_guesser.py
-```
+
 
 ## Code Structure
 
